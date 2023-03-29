@@ -1,0 +1,3 @@
+Github e altri siti contengono moltissimi esempi di macro (codici vba) usate per migliorare la produttività aziendale. Sarebbe da vedere se riusciamo a recuperarne diversi sample usando un altro grado di indagine di trend/best practices/significant topic.
+
+Risultato: lista di macro usate/consigliate per le aziende pronte da inserire ne contesto di merging.
