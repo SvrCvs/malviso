@@ -1,0 +1,3 @@
+Partendo dalle statistiche sulla distribuzione delle macro nei documenti (legittimi e realistici) effettivamente da noi recuperati. 
+
+Iniettiamo le macro nel set di template selezionati con una distribuzione ereditata da quella dei documenti reali.

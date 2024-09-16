@@ -1,0 +1,9 @@
+Usando Request, facciamo una get alla google search usando [[url = f"https://www.google.com/search?hl=it&q={query}+intent%3Axlsm%20filetype%3Axlsm&start={start}"]], beautiful_soup per processare la risposta html.
+
+Problema: Ogni 1000 richieste ci blocca, da vedere se sono aggirabili.
+
+Dobbiamo mettere qui controllo doppioni, presenza di macro, benignità delle macroì/documenti (mraptor o virustotal se funziona).
+
+Problema: Capire se/come sandboxare/safety checkare definitivamente le macro.
+
+Risultato: Lista documenti benigni con macro effettivamente usati e veritieri.

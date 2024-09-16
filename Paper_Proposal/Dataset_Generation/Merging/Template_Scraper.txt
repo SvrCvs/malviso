@@ -1,0 +1,3 @@
+Sempre tramite indagine statistica/ trend, possiamo recuperare i template (tipologie) di documenti che risultano più utilizzati/attacabili nella vita aziendale di ogni giorno.
+
+Riultato : Lista di template excel/word realistici dove poi iniettare le macro.

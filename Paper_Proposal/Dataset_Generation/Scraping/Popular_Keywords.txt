@@ -1,0 +1,5 @@
+Cercare le parole chiave utilizzate in contesti aziendali, in modo da modellare una distribuzione fedele dei documenti benigni che si possono incontrare nella vita reale.
+
+Analisi trend / Chat gpt / Analisi report attacchi Microsoft-Phishing / Cyberthread.
+
+Questo ci porterebbe a generare la query da usare per il nostro algritmo di scraping.

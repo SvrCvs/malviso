@@ -1,0 +1,3 @@
+Prendiamo i documenti benigni scrapati ed estraiamo le macro al loro interno.
+
+risutato: Macro effettivamente usate dale aziende nei loro documenti ufficiali.
